@@ -1,6 +1,6 @@
 # Projet BlackHall
 Présentation du projet : ce projet est un petit jeu réalisé dans le cadre de l'option ISN en terminale S.
-C'est un QTR, c'est a dire un jeu où l'on doit appuyer sur la lettre du clavier correspondant a celle qui
+C'est un QTR, c'est à dire un jeu où l'on doit appuyer sur la lettre du clavier correspondant à celle qui
 s'affiche.
 
 Les outils mis en oeuvre ;
